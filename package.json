@@ -1,0 +1,30 @@
+{
+  "name": "htmljson",
+  "version": "1.0.0",
+  "description": "Template engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yalovek/htmljson.git"
+  },
+  "keywords": [
+    "html",
+    "json",
+    "template"
+  ],
+  "author": "Vadim Yalovenko <yalovek@ya.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yalovek/htmljson/issues"
+  },
+  "homepage": "https://github.com/yalovek/htmljson#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "jsdom": "^8.1.0"
+  }
+}
